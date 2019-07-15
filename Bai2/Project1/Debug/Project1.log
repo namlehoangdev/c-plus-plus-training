@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+e:\project1\project1\main.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Project1.vcxproj -> E:\Project1\Debug\bai2.exe
